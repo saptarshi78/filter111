@@ -21,16 +21,14 @@ Just Go To Google And Copy Movie Name Of That You Want And Paste Here.
 
 """
 
-ABOUT = """
+"""
 ➥ Name :  [File Search Bot](https://t.me/file_Search_V3_Bot)
     
-➥ Maintained By : [ MH BOTZ ](
-https://t.me/MH_BOTZ)
+➥ Maintained By : @MH_BOTZ
 
 ➥ Language : Python3
 
 ➥ Library : Pyrogram Asyncio 1.13.0
 
-➥ Source : [Click Me](https://github.com/mh-Botz/autofilterbotv3
-)
+➥ Server : Heroku
 """
