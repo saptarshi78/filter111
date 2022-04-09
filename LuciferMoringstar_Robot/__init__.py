@@ -12,17 +12,17 @@ from .Channel import (
 
 HELP = """
 നിങ്ങൾക്ക് ആവശ്യമുള്ള മൂവിയുടെ പേര് ഗൂഗിളിൽ നിന്നും കോപ്പി ചെയ്ത് ഇവിടെ PASTE ചെയ്യുക. MOVIE കിട്ടിയില്ലെങ്കിൽ @MH__Botz_SUPPORT ഗ്രൂപ്പിൽ അറിയിക്കുക.
-Just Go To Google And Copy Movie Name Of That You Want.
+Just Go To Google And Copy Movie Name Of That You Want And Paste Here.
 
 
 
 
 
 
-""
+"""
 
 ABOUT = """
-➥ Name :  File Search Bot
+➥ Name :  [File Search Bot](https://t.me/file_Search_V3_Bot)
     
 ➥ Maintained By : [ MH BOTZ ](
 https://t.me/MH_BOTZ)
