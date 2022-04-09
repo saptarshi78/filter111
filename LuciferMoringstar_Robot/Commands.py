@@ -115,10 +115,10 @@ async def start(bot, message):
             disable_web_page_preview=True,
             reply_markup=InlineKeyboardMarkup(
                 [[
-                InlineKeyboardButton('⚙️ Bot Updates Channel ⚙️',url=f'{TOTURIAL}')
+                InlineKeyboardButton('⚙️ Bot Updates Channel ⚙️',url='https://t.me/file_searvh_updates')
                 ],[
                 InlineKeyboardButton("Help", callback_data="help"),
-                InlineKeyboardButton("Group 🎥", 'https/t.me/mallu_Moviez_Group')
+                InlineKeyboardButton("Group 🎥",url='https/t.me/mallu_Moviez_Group')
                 ]]
             )
         )
