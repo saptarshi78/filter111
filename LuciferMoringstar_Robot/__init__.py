@@ -24,7 +24,7 @@ Just Go To Google And Copy Movie Name Of That You Want And Paste Here.
 """
 ➥ Name :  File Search Bot 🔍
     
-➥ Maintained By : @MH_BOTZ
+➥ Maintained By : MH Botz 
 
 ➥ Language : Python3
 
