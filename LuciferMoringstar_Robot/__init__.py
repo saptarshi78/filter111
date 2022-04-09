@@ -11,31 +11,26 @@ from .Channel import (
 )
 
 HELP = """
-Basic Commads
+നിങ്ങൾക്ക് ആവശ്യമുള്ള മൂവിയുടെ പേര് ഗൂഗിളിൽ നിന്നും കോപ്പി ചെയ്ത് ഇവിടെ PASTE ചെയ്യുക. MOVIE കിട്ടിയില്ലെങ്കിൽ @MH__Botz_SUPPORT ഗ്രൂപ്പിൽ അറിയിക്കുക.
+Just Go To Google And Copy Movie Name Of That You Want.
 
-/start :- check am Alive
 
-Bot Owner Only
-/broadcast Replay Any Message or Media
-/stats user Status
-/ban_user  click ban_user more info
-/unban_user click unban_user more info
-/banned_users Banned User Details
-/total How Many Files Added In Database
-/logger  Get Logs
-/delete Delete File From Database
 
-"""
+
+
+
+""
 
 ABOUT = """
-➥ Name :  Auto Filter V3
+➥ Name :  File Search Bot
     
-➥ Creator : [Naughty PROFESSOR](
-https://youtube.com/c/NaughtyPROFESSOR)
+➥ Maintained By : [ MH BOTZ ](
+https://t.me/MH_BOTZ)
 
 ➥ Language : Python3
 
 ➥ Library : Pyrogram Asyncio 1.13.0
 
-➥ Tutorial : [Click Me](https://youtu.be/5hnYOKBzyi8)
+➥ Source : [Click Me](https://github.com/mh-Botz/autofilterbotv3
+)
 """
