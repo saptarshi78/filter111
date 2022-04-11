@@ -117,7 +117,7 @@ async def start(bot, message):
                 [[
                 InlineKeyboardButton('⚙️ Bot Updates Channel ⚙️',url='https://t.me/file_searvh_updates')
                 ],[
-                InlineKeyboardButton("Help", callback_data="help"),
+                InlineKeyboardButton('🔄 Share Me', url='https://t.me/share/url?url=https://t.me/File_search_V3_Bot'),
                 InlineKeyboardButton('Group 🎥', url='https/t.me/mallu_Moviez_Group')
                 ]]
             )
