@@ -1,35 +1,99 @@
 from .Utils import (
+
    get_filter_results,
+
    get_file_details,
+
    is_subscribed,
+
    get_poster,
+
    Media
+
 )
+
 from .Channel import (
+
    RATING,
+
    GENRES
+
 )
 
 HELP = """
-നിങ്ങൾക്ക് ആവശ്യമുള്ള മൂവിയുടെ പേര് ഗൂഗിളിൽ നിന്നും കോപ്പി ചെയ്ത് ഇവിടെ PASTE ചെയ്യുക. MOVIE കിട്ടിയില്ലെങ്കിൽ @MH__Botz_SUPPORT ഗ്രൂപ്പിൽ അറിയിക്കുക.
-Just Go To Google And Copy Movie Name Of That You Want And Paste Here.
 
+Basic Commads
 
+/start :- check am Alive
 
+Bot Owner Only
 
+/broadcast Replay Any Message or Media
 
+/stats user Status
 
+/ban_user  click ban_user more info
 
+/unban_user click unban_user more info
+
+/banned_users Banned User Details
+
+/total How Many Files Added In Database
+
+/logger  Get Logs
+
+/delete Delete File From Database
 
 """
-About = """
-➥ Name :  File Search Bot 🔍
+
+ABOUT = """
+
+➥ Name :  File Searcher
+
     
-➥ Maintained By : MH Botz 
+
+➥ Creator : [MH Botz](
+
+https://t.me/mh_botz)
 
 ➥ Language : Python3
 
 ➥ Library : Pyrogram Asyncio 1.13.0
 
-➥ Server : Heroku
+➥ source : [Click Me](https://github.com/mh-botz/autofilterbotv3)
+
 """
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
