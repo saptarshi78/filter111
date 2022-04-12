@@ -31,6 +31,10 @@ How To Search?
 it's Not comblicated Just Type Movie Name Here. If Not Get Movie Just Go To Google Name And Check Your Movie Name And Try Again.
 If you still do not get it Notify within @HELP_MH_BOT
 
+ഇഇത് സങ്കീർണ്ണമല്ല സിനിമയുടെ പേര് ഇവിടെ ടൈപ്പ് ചെയ്യുക. സിനിമ ലഭിക്കുന്നില്ലെങ്കിൽ, ഗൂഗിൾ നാമത്തിലേക്ക് പോയി നിങ്ങളുടെ സിനിമയുടെ പേര് പരിശോധിച്ച് വീണ്ടും ശ്രമിക്കുക.
+
+നിങ്ങൾക്ക് ഇപ്പോഴും അത് ലഭിച്ചില്ലെങ്കിൽ @HELP_MH_BOT ബോട്ടിൽ അറിയിക്കുക
+
  """
 
 About = """
