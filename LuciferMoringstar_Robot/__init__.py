@@ -2,25 +2,7 @@ from .Utils import (get_filter_results,get_file_details,is_subscribed,Media,)
 from .channel import (RATING,GENRES)
    
 
-   
-
-   
-
-   
-
-   
-
-
-
-
-
-
-
-   
-
-
-
-Help = """
+  Help = """
 
 Basic Commads
 
@@ -46,28 +28,40 @@ Bot Owner Only
 
 How To Search?
 
-it's Not Comblicated Just Type Movie Name Here. If Not Get Movie Just Go To Google Name And Check Your Movie Name And Try Again.
+it's Not comblicated Just Type Movie Name Here. If Not Get Movie Just Go To Google Name And Check Your Movie Name And Try Again.
 If you still do not get it Notify within @HELP_MH_BOT
 
-"""
+ """
 
-ABOUT = """
+About = """
 
-➥ Name :  File Searcher
-
-➥ creator : [MH Botz](https://t.me/MH_BOTz)
-
-
-
-
-
+➥ Name : File Search Bot
+➥ Creator : [ MH BOTZ ](https://t.me/mh_botz)
 ➥ Language : Python3
+➥ Library : Pyrogram Acynsio 1.13.0
+➥ Saurce : [Click Me](https://github.com/mh-botz/autofilterbotv3
 
-➥ Library : Pyrogram Asyncio 1.13.0
 
-➥ source : [Click Me](https://github.com/mh-botz/autofilterbotv3)
+   
 
-"""
+   
+
+   
+
+
+
+
+
+
+
+   
+
+
+
+
+
+
+
 
 
 
