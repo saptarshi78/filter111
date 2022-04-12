@@ -1,26 +1,26 @@
-from .Utils import (
+from .Utils import (get_filter_results,get_file_details,is_subscribed,Media,)
+from .channel import (RATING,GENRES)
+   
 
-   get_filter_results,
+   
 
-   get_file_details,
+   
 
-   is_subscribed,
+   
 
-   get_poster,
+   
 
-   Media
 
-)
 
-from .Channel import (
 
-   RATING,
 
-   GENRES
 
-)
 
-HELP = """
+   
+
+
+
+Help = """
 
 Basic Commads
 
