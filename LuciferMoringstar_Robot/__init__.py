@@ -44,17 +44,22 @@ Bot Owner Only
 
 /delete Delete File From Database
 
+How To Search?
+
+it's Not Comblicated Just Type Movie Name Here. If Not Get Movie Just Go To Google Name And Check Your Movie Name And Try Again.
+If you still do not get it Notify within @HELP_MH_BOT
+
 """
 
 ABOUT = """
 
 ➥ Name :  File Searcher
 
-    
+➥ creator : [MH Botz](https://t.me/MH_BOTz)
 
-➥ Creator : [MH Botz](
 
-https://t.me/mh_botz)
+
+
 
 ➥ Language : Python3
 
